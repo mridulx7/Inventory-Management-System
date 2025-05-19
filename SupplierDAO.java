@@ -13,7 +13,7 @@ public class SupplierDAO {
         List<Supplier> suppliers = new ArrayList<>();
         
 
-        // Change URL, user, pass to your database config
+        
         String url = "jdbc:mysql://localhost:3306/inventory_db";
         String user = "root";
         String pass = "12345";
