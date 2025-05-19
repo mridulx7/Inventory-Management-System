@@ -1,0 +1,48 @@
+InventoryManagementSystemGUVI/
+│
+├── .vscode/                        # VS Code configuration
+│   ├── launch.json
+│   └── settings.json
+│
+├── bin/                            # Compiled Java bytecode files (.class)
+│   ├── dao/
+│   │   ├── ProductDAO.class
+│   │   ├── SupplierDAO.class
+│   │   └── UserDAO.class
+│   ├── model/
+│   │   ├── Product.class
+│   │   ├── Supplier.class
+│   │   └── User.class
+│   ├── ui/
+│   │   ├── InventoryFrame.class
+│   │   ├── InventoryFrame$1.class
+│   │   ├── LoginFrame.class
+│   │   ├── LoginFrame$1.class
+│   │   └── ProductFormPanel.class
+│   └── utils/
+│       ├── DatabaseConnection.class
+│       ├── TestDBConnection.class
+│       └── TestUserDAO.class
+│
+├── lib/                            # External libraries
+│   └── mysql-connector-j-9.3.0.jar
+│
+├── src/                            # Source code
+│   ├── dao/
+│   │   ├── ProductDAO.java
+│   │   ├── SupplierDAO.java
+│   │   └── UserDAO.java
+│   ├── model/
+│   │   ├── Product.java
+│   │   ├── Supplier.java
+│   │   └── User.java
+│   ├── ui/
+│   │   ├── InventoryFrame.java
+│   │   ├── LoginFrame.java
+│   │   └── ProductFormPanel.java
+│   └── utils/
+│       ├── DatabaseConnection.java
+│       ├── TestDBConnection.java
+│       └── TestUserDAO.java
+│
+└── README.md                       # Project documentation
