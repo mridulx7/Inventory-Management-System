@@ -23,7 +23,7 @@ This is a simple GUI-based Inventory Management System built using Java Swing an
 - IDE: Visual Studio Code
 
 ---
-![Inventory UI]()
+![Inventory UI](https://github.com/mridulx7/Inventory-Management-System/blob/48b1235d96a3a3df0a3dd7f85add64c15fcc0a71/Screenshot%202025-05-19%20180420.png)
 
 
 
