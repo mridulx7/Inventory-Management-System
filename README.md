@@ -24,9 +24,53 @@ This is a simple GUI-based Inventory Management System built using Java Swing an
 
 ---
 
-## 📸 Screenshots
-> _(Add screenshots by uploading images in the repository and using the markdown below)_  
-```markdown
-![Main GUI](screenshots/inventory_gui.png)
-![Add Item](screenshots/add_item.png)
-![Update/Delete](screenshots/update_delete.png)
+InventoryManagementSystemGUVI/
+│
+├── .vscode/                        # VS Code configuration
+│   ├── launch.json
+│   └── settings.json
+│
+├── bin/                            # Compiled Java bytecode files (.class)
+│   ├── dao/
+│   │   ├── ProductDAO.class
+│   │   ├── SupplierDAO.class
+│   │   └── UserDAO.class
+│   ├── model/
+│   │   ├── Product.class
+│   │   ├── Supplier.class
+│   │   └── User.class
+│   ├── ui/
+│   │   ├── InventoryFrame.class
+│   │   ├── InventoryFrame$1.class
+│   │   ├── LoginFrame.class
+│   │   ├── LoginFrame$1.class
+│   │   └── ProductFormPanel.class
+│   └── utils/
+│       ├── DatabaseConnection.class
+│       ├── TestDBConnection.class
+│       └── TestUserDAO.class
+│
+├── lib/                            # External libraries
+│   └── mysql-connector-j-9.3.0.jar
+│
+├── src/                            # Source code
+│   ├── dao/
+│   │   ├── ProductDAO.java
+│   │   ├── SupplierDAO.java
+│   │   └── UserDAO.java
+│   ├── model/
+│   │   ├── Product.java
+│   │   ├── Supplier.java
+│   │   └── User.java
+│   ├── ui/
+│   │   ├── InventoryFrame.java
+│   │   ├── LoginFrame.java
+│   │   └── ProductFormPanel.java
+│   └── utils/
+│       ├── DatabaseConnection.java
+│       ├── TestDBConnection.java
+│       └── TestUserDAO.java
+│
+└── README.md                       # Project documentation
+
+
