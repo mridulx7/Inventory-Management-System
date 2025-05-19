@@ -24,6 +24,6 @@ This is a simple GUI-based Inventory Management System built using Java Swing an
 
 ---
 ![Inventory UI](https://github.com/mridulx7/Inventory-Management-System/blob/48b1235d96a3a3df0a3dd7f85add64c15fcc0a71/Screenshot%202025-05-19%20180420.png)
-
+![Inventory UI](https://github.com/mridulx7/Inventory-Management-System/blob/cbfd96f16a62341ccf6ede5174e01ae108f2f4a3/Screenshot%202025-05-19%20180039.png)
 
 
